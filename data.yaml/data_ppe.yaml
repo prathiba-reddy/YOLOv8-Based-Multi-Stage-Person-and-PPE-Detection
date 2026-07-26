@@ -1,0 +1,18 @@
+names:
+- boots
+- gloves
+- hard-hat
+- mask
+- person
+- ppe-suit
+- vest
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: persondetection-bgsqe
+  url: https://universe.roboflow.com/r-thanuja-reddy-yt93m/persondetection-bgsqe/dataset/1
+  version: 1
+  workspace: r-thanuja-reddy-yt93m
+test: ../test/images
+train: ../train/images
+val: ../valid/images
